@@ -1,10 +1,9 @@
-#define MyAppName "OpenKorabli本地化安装包"
+#define MyAppName "OpenKorabli本地化包"
 #define MyAppInstallerName "OpenL10nInstaller"
 #define MyAppVersion "0.0.1"
 #define MyAppPublisher "OpenKorabli"
 #define MyAppPublisherURL "https://github.com/OpenKorabli"
 #define MyAppSupportURL "https://github.com/OpenKorabli"
-#define IsForPTClient no
 
 [Setup]
 AppName={#MyAppName}
@@ -13,7 +12,9 @@ AppPublisher={#MyAppPublisher}
 AppPublisherURL={#MyAppPublisherURL}
 AppSupportURL={#MyAppSupportURL}
 OutputBaseFilename={#MyAppInstallerName}-{#MyAppVersion}
-
+WizardImageFile=assets\wizard.bmp
+WizardSmallImageFile=assets\wizard_small.bmp
+DisableWelcomePage=no
 DefaultDirName={tmp}
 DisableDirPage=yes
 DisableProgramGroupPage=yes
