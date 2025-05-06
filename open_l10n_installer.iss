@@ -26,8 +26,8 @@ Uninstallable=no
 Source: "mods\*"; DestDir: "{tmp}\mods"; Flags: ignoreversion recursesubdirs createallsubdirs
 
 [Languages]
-Name: "chinesesimplified"; MessagesFile: "compiler:Languages\ChineseSimplified.isl"; InfoBeforeFile: "assets\welcome_chs.txt"; LicenseFile: "assets\license.txt";
-//Name: "chinesetraditional"; MessagesFile: "compiler:Languages\ChineseTraditional.isl"; InfoBeforeFile: "assets\welcome_cht.txt"; LicenseFile: "assets\license_cht.txt";
+Name: "chinesesimplified"; MessagesFile: "lang\ChineseSimplified.isl"; InfoBeforeFile: "assets\welcome_chs.txt"; LicenseFile: "assets\license.txt";
+//Name: "chinesetraditional"; MessagesFile: "lang\ChineseTraditional.isl"; InfoBeforeFile: "assets\welcome_cht.txt"; LicenseFile: "assets\license_cht.txt";
 Name: "english"; MessagesFile: "compiler:Default.isl"; InfoBeforeFile: "assets\welcome_en.txt"; LicenseFile: "assets\license.txt";
 //Name: "russian"; MessagesFile: "compiler:Languages\Russian.isl"; InfoBeforeFile: "assets\welcome_ru.txt"; LicenseFile: "assets\license_ru.txt";
 
