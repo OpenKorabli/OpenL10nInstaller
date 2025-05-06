@@ -1,0 +1,12 @@
+Thank you for using the localization mod by OpenKorabli.
+
+Contents:
+• the localization file;
+• ...
+
+Any comments or suggestions about this program, please contact us at https://github.com/OpenKorabli/OpenL10nInstaller/issues.
+Any comments or suggestions about the localization mod, please contact XXX.
+
+The setup will begin once you click "Next".
+
+Enjoy the game~!

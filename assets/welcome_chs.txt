@@ -1,0 +1,12 @@
+欢迎使用 OpenKorabli 本地化自解压安装包！
+
+安装包内容：
+• 《Mir Korabley》语言包；
+• ……
+
+若对本程序有任何意见或建议，请在 https://github.com/OpenKorabli/OpenL10nInstaller/issues 创建议题。
+若对本地化包有任何意见或建议，请联系XXX。
+
+点击“下一步”后，安装流程将自动执行。
+
+祝您游戏愉快~
